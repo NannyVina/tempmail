@@ -8,7 +8,7 @@ The `tempmail` package provides a simple way to interact with temporary email se
 
 To use the `tempmail` package, you need to import it in your Go program:
 ```go
-import "github.com/Mixtre/tempmail"
+import "github.com/NannyVina/tempmail"
 ```
 **Creating a Temporary Email Address**
 -------------------------------------

@@ -1,3 +1,3 @@
-module github.com/Mixtre/tempmail
+module github.com/NannyVina/tempmail
 
 go 1.22.1
